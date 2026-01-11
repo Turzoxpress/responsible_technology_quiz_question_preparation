@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Responsible Technology — Read</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">RT</div>
+        <div>
+          <div class="t1">Read the quiz</div>
+          <div class="t2" id="subtitle">Loading…</div>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn ghost" href="./index.html"><span class="ico">←</span>Back to menu</a>
+        <button class="btn ghost" id="themeBtn" type="button"><span class="ico">◐</span>Theme</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="card tight">
+      <div class="row">
+        <div class="search" style="flex:1;">
+          <span class="ico">⌕</span>
+          <input id="searchInput" type="search" placeholder="Search (GDPR, WCAG, Ethical OS, EHAZOP...)" />
+          <button class="btn ghost" id="clearBtn" type="button">Clear</button>
+        </div>
+
+        <div class="row" style="gap:10px;">
+          <div class="pill" id="countPill">0</div>
+
+          <button class="btn ghost" id="loadFileBtn" type="button" title="If fetch fails, load JSON manually">
+            <span class="ico">⤓</span>Load JSON
+          </button>
+          <input id="fileInput" type="file" accept=".json,application/json" hidden />
+        </div>
+      </div>
+    </div>
+
+    <div style="height:12px;"></div>
+
+    <div class="list" id="list"></div>
+
+    <div style="height:18px;"></div>
+    <div class="small" id="status"></div>
+  </div>
+
+  <script src="./utils.js"></script>
+  <script src="./read.js"></script>
+</body>
+</html>
