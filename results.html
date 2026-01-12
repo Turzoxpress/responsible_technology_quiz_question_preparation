@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Responsible Technology — Results</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  
+
+  <div id="pageLoader" class="page-loader is-visible" aria-hidden="false" role="status" aria-live="polite">
+    <div class="loader-card">
+      <div class="loader-title"><span class="dot" aria-hidden="true"></span> Loading…</div>
+      <div class="loader-sub">Preparing your next screen</div>
+      <div class="loader-bar" aria-hidden="true"><div class="loader-bar-fill"></div></div>
+    </div>
+  </div>
+
+<div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">RT</div>
+        <div>
+          <div class="t1">Exam results</div>
+          <div class="t2" id="subtitle">A calm review beats self-criticism.</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn ghost" id="themeBtn" type="button"><span class="ico">◐</span>Theme</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="card results-hero">
+      <h2 class="h2" id="headline">Loading…</h2>
+      <p class="p" id="summaryText"></p>
+
+      <hr class="sep" />
+
+      <div class="row">
+        <div class="row" style="gap:10px;">
+          <span class="badge" id="scoreBadge">—</span>
+          <span class="pill" id="timeBadge">—</span>
+        </div>
+
+        <div class="row" style="gap:10px;">
+          <button class="btn" id="toggleDetailsBtn" type="button">
+            <span class="ico">🔎</span> Show Quiz results
+          </button>
+          <a class="btn ghost" id="backBtn" href="./index.html">
+            <span class="ico">←</span> Go back to menu
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <div class="card" id="detailsCard" hidden>
+      <div class="row">
+        <div>
+          <div class="h2">Self-analysis</div>
+          <div class="small">Review what you chose vs what’s correct (no shame — just signal).</div>
+        </div>
+
+        <div class="row" style="gap:10px;">
+          <button class="btn ghost" id="filterAll">All</button>
+          <button class="btn ghost" id="filterWrong">Wrong</button>
+          <button class="btn ghost" id="filterUnanswered">Unanswered</button>
+        </div>
+      </div>
+
+      <hr class="sep" />
+
+      <div class="list" id="detailsList"></div>
+    </div>
+
+    <div style="height:18px;"></div>
+    <div class="small" id="status"></div>
+  </div>
+
+  <script src="./loader.js"></script>
+  <script src="./utils.js"></script>
+  <script src="./results.js"></script>
+</body>
+</html>

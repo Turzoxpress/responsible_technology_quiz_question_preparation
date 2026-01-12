@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Responsible Technology — Menu</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  
+
+  <div id="pageLoader" class="page-loader is-visible" aria-hidden="false" role="status" aria-live="polite">
+    <div class="loader-card">
+      <div class="loader-title"><span class="dot" aria-hidden="true"></span> Loading…</div>
+      <div class="loader-sub">Preparing your next screen</div>
+      <div class="loader-bar" aria-hidden="true"><div class="loader-bar-fill"></div></div>
+    </div>
+  </div>
+
+<div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">RT</div>
+        <div>
+          <div class="t1">Responsible Technology</div>
+          <div class="t2">Read or take a timed exam</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn ghost" id="themeBtn" type="button"><span class="ico">◐</span>Theme</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="card">
+      <h1 class="h1">Choose your mode</h1>
+      <p class="p">
+        Read everything calmly, or take a timed exam to test yourself.
+      </p>
+
+      <hr class="sep" />
+
+      <div class="grid-2">
+        <a class="btn big" href="./read.html">
+          <span><span class="ico">📖</span> Read the quiz</span>
+          <span class="ico">→</span>
+        </a>
+
+        <a class="btn big" href="./exam.html">
+          <span><span class="ico">🧠</span> Take Exam</span>
+          <span class="ico">→</span>
+        </a>
+      </div>
+
+      <hr class="sep" />
+
+      <div class="small">
+        Tip: run via a local server so the app can fetch <span class="mono">questions_unique.json</span>.
+      </div>
+    </div>
+  </div>
+
+  <script src="./loader.js"></script>
+  <script src="./utils.js"></script>
+  <script>
+    applySavedTheme();
+    $("themeBtn").addEventListener("click", toggleTheme);
+    // If a previous exam was abandoned, recover any retry questions that were
+    // temporarily removed from the wrong pool.
+    restorePendingWrongToWrongPool();
+    // Clear only session exam data when returning to menu
+    clearExamStorage();
+  </script>
+</body>
+</html>

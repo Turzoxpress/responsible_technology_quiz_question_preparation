@@ -1,0 +1,1902 @@
+[
+  {
+    "question": "Question 1: What is the main purpose of the Ethical OS toolkit?",
+    "options": {
+      "0": "To certify that a product is fully legal",
+      "1": "To help identify and anticipate possible ethical risks of technologies",
+      "2": "To calculate system performance and reliability",
+      "3": "To guarantee that AI systems are unbiased"
+    },
+    "correct_answer": "To help identify and anticipate possible ethical risks of technologies"
+  },
+  {
+    "question": "Question 2: Which of the following best describes “Risk Zone 1” in the Ethical OS toolkit?",
+    "options": {
+      "0": "Implicit trust and user understanding",
+      "1": "Addiction and the dopamine economy",
+      "2": "Truth, disinformation, and propaganda",
+      "3": "Data control and monetisation"
+    },
+    "correct_answer": "Truth, disinformation, and propaganda"
+  },
+  {
+    "question": "Question 3: Which Ethical OS Risk Zone is most directly concerned with user attention, compulsive use and time spent on platforms?",
+    "options": {
+      "0": "Risk Zone 2: Addiction, the dopamine economy",
+      "1": "Risk Zone 4: Machine ethics and algorithmic biases",
+      "2": "Risk Zone 6: Data control and monetisation",
+      "3": "Risk Zone 8: Hateful and criminal actors"
+    },
+    "correct_answer": "Risk Zone 2: Addiction, the dopamine economy"
+  },
+  {
+    "question": "Question 4: In the Ethical OS toolkit, which Risk Zone addresses wealth gaps, job loss and unequal access caused by technology?",
+    "options": {
+      "0": "Risk Zone 3: Economic and asset inequalities",
+      "1": "Risk Zone 5: Surveillance state",
+      "2": "Risk Zone 7: Implicit trust",
+      "3": "Risk Zone 1: Truth and propaganda"
+    },
+    "correct_answer": "Risk Zone 3: Economic and asset inequalities"
+  },
+  {
+    "question": "Question 5: Which Risk Zone is most closely associated with predictive justice tools that reinforce historical bias?",
+    "options": {
+      "0": "Risk Zone 6: Data control and monetisation",
+      "1": "Risk Zone 4: Machine ethics and algorithmic biases",
+      "2": "Risk Zone 2: Addiction and the dopamine economy",
+      "3": "Risk Zone 7: Implicit trust and user understanding"
+    },
+    "correct_answer": "Risk Zone 4: Machine ethics and algorithmic biases"
+  },
+  {
+    "question": "Question 6: Facial recognition, social credit scoring and state tracking of citizens mainly fall under which Ethical OS Risk Zone?",
+    "options": {
+      "0": "Risk Zone 5: Surveillance state",
+      "1": "Risk Zone 3: Economic inequalities",
+      "2": "Risk Zone 1: Truth and propaganda",
+      "3": "Risk Zone 8: Hateful criminal actors"
+    },
+    "correct_answer": "Risk Zone 5: Surveillance state"
+  },
+  {
+    "question": "Question 7: Questions such as “What data are you collecting?” and “Do you really need it?” belong primarily to which Ethical OS Risk Zone?",
+    "options": {
+      "0": "Risk Zone 2: Addiction",
+      "1": "Risk Zone 6: Data control and monetisation",
+      "2": "Risk Zone 7: Implicit trust",
+      "3": "Risk Zone 4: Algorithmic biases"
+    },
+    "correct_answer": "Risk Zone 6: Data control and monetisation"
+  },
+  {
+    "question": "Question 8: Concerns about dense, unread terms of service and users not understanding how their data is used relate most directly to:",
+    "options": {
+      "0": "Risk Zone 7: Implicit trust and user understanding",
+      "1": "Risk Zone 1: Truth and propaganda",
+      "2": "Risk Zone 3: Economic inequalities",
+      "3": "Risk Zone 8: Hateful criminal actors"
+    },
+    "correct_answer": "Risk Zone 7: Implicit trust and user understanding"
+  },
+  {
+    "question": "Question 9: Using a platform to organise harassment, doxxing and violent attacks is an example of which Risk Zone?",
+    "options": {
+      "0": "Risk Zone 5: Surveillance state",
+      "1": "Risk Zone 2: Addiction",
+      "2": "Risk Zone 8: Hateful and criminal actors",
+      "3": "Risk Zone 4: Algorithmic biases"
+    },
+    "correct_answer": "Risk Zone 8: Hateful and criminal actors"
+  },
+  {
+    "question": "Question 10: In the Ethical OS toolkit, Tool 1 “Tomorrow’s Risk – Today” is mainly used to:",
+    "options": {
+      "0": "Enforce legal compliance with data protection law",
+      "1": "Prioritise bugs in software deployment",
+      "2": "Stretch imagination using future scenarios to identify long-term risks",
+      "3": "Calculate system throughput and latency"
+    },
+    "correct_answer": "Stretch imagination using future scenarios to identify long-term risks"
+  },
+  {
+    "question": "Question 11: Which Ethical OS tool is described as a “Risk Mitigation Manual” and uses checklists across the 8 risk zones?",
+    "options": {
+      "0": "Tool 1 – Tomorrow’s Risk: Today",
+      "1": "Tool 2 – Check Your Tech",
+      "2": "Tool 3 – Future-Proofing",
+      "3": "Tool 4 – Legal Compliance"
+    },
+    "correct_answer": "Tool 2 – Check Your Tech"
+  },
+  {
+    "question": "Question 12: Which Ethical OS tool focuses on embedding best practices and strategies to manage risk at scale?",
+    "options": {
+      "0": "Tool 1 – Tomorrow’s Risk: Today",
+      "1": "Tool 2 – Check Your Tech",
+      "2": "Tool 3 – Future-Proofing",
+      "3": "Tool 4 – Consequence Scanning"
+    },
+    "correct_answer": "Tool 3 – Future-Proofing"
+  },
+  {
+    "question": "Question 13: According to Lecture 03, consequentialism judges the moral worth of an action primarily by:",
+    "options": {
+      "0": "Whether it follows professional codes",
+      "1": "Whether it obeys prevailing laws and culture",
+      "2": "Its consequences for individuals and society",
+      "3": "The character traits of the decision-maker"
+    },
+    "correct_answer": "Its consequences for individuals and society"
+  },
+  {
+    "question": "Question 14: Utilitarianism is given as an example of which ethical theory?",
+    "options": {
+      "0": "Virtue ethics",
+      "1": "Deontology",
+      "2": "Consequentialism",
+      "3": "Social contract scepticism"
+    },
+    "correct_answer": "Consequentialism"
+  },
+  {
+    "question": "Question 15: Deontological theories focus mainly on:",
+    "options": {
+      "0": "Maximising happiness for the greatest number",
+      "1": "Duties, rules and obligations regardless of outcome",
+      "2": "Measuring economic efficiency",
+      "3": "Psychological motivations only"
+    },
+    "correct_answer": "Duties, rules and obligations regardless of outcome"
+  },
+  {
+    "question": "Question 16: In the lecture, social contract theory is presented as a form of deontological ethics because it:",
+    "options": {
+      "0": "Ignores social rules entirely",
+      "1": "Focuses only on personal benefit",
+      "2": "Emphasises obeying shared rules as long as others do or are punished",
+      "3": "Always seeks the greatest happiness"
+    },
+    "correct_answer": "Emphasises obeying shared rules as long as others do or are punished"
+  },
+  {
+    "question": "Question 17: The “trolley problem” is used in the module mainly to:",
+    "options": {
+      "0": "Teach basic programming skills",
+      "1": "Show differences between human reflexes and software design choices",
+      "2": "Explain database normalisation",
+      "3": "Prove that deontology is always correct"
+    },
+    "correct_answer": "Show differences between human reflexes and software design choices"
+  },
+  {
+    "question": "Question 18: The lecture stresses that software engineers have agency because:",
+    "options": {
+      "0": "They must always follow automated tools",
+      "1": "They only react by reflex in emergencies",
+      "2": "They have time to decide what the software should do in advance",
+      "3": "They are exempt from ethical responsibility"
+    },
+    "correct_answer": "They have time to decide what the software should do in advance"
+  },
+  {
+    "question": "Question 19: Which of the following is highlighted as a key reason “good intent is not enough” in technology design?",
+    "options": {
+      "0": "Hardware limitations always prevent ethical design",
+      "1": "Unintended consequences can create serious ethical problems",
+      "2": "Legal compliance removes all risk",
+      "3": "Users never read documentation"
+    },
+    "correct_answer": "Unintended consequences can create serious ethical problems"
+  },
+  {
+    "question": "Question 20: According to the lecture, the Ethical OS toolkit and consequence scanning are used primarily to:",
+    "options": {
+      "0": "Validate only performance requirements",
+      "1": "Identify and mitigate ethical risks and unintended consequences",
+      "2": "Replace all legal review",
+      "3": "Measure financial profitability"
+    },
+    "correct_answer": "Identify and mitigate ethical risks and unintended consequences"
+  },
+  {
+    "question": "Question 21: In HAZOP, from which EHAZOP is derived, the team systematically examines each component of a system by:",
+    "options": {
+      "0": "Randomly testing scenarios until a failure occurs",
+      "1": "Using pre-defined guide words to explore deviations from design intent",
+      "2": "Simulating only normal operating conditions",
+      "3": "Comparing the system to competitor products"
+    },
+    "correct_answer": "Using pre-defined guide words to explore deviations from design intent"
+  },
+  {
+    "question": "Question 22: EHAZOP extends traditional HAZOP by focusing specifically on:",
+    "options": {
+      "0": "Financial performance",
+      "1": "Ethical hazards affecting psychological, social and environmental wellbeing",
+      "2": "Hardware component reliability",
+      "3": "Network latency and throughput"
+    },
+    "correct_answer": "Ethical hazards affecting psychological, social and environmental wellbeing"
+  },
+  {
+    "question": "Question 23: Which standard is cited as the basis for HAZOP in the EHAZOP lecture?",
+    "options": {
+      "0": "ISO 27001",
+      "1": "BS EN 61882",
+      "2": "BS 8611 only",
+      "3": "GDPR 2016"
+    },
+    "correct_answer": "BS EN 61882"
+  },
+  {
+    "question": "Question 24: In EHAZOP, guide words such as “more”, “less”, “early” and “late” are used to:",
+    "options": {
+      "0": "Label severity levels of hazards",
+      "1": "Define user personas",
+      "2": "Describe deviations from design and use intent",
+      "3": "Classify legal penalties"
+    },
+    "correct_answer": "Describe deviations from design and use intent"
+  },
+  {
+    "question": "Question 25: The lecture notes that defining useful guide words for an EHAZOP is:",
+    "options": {
+      "0": "The easiest part of the process",
+      "1": "Irrelevant to ethical analysis",
+      "2": "Often the hardest part of the study",
+      "3": "Done only by regulators"
+    },
+    "correct_answer": "Often the hardest part of the study"
+  },
+  {
+    "question": "Question 26: In the assistive-robot example, which ethical hazard is associated with continuous monitoring of the user?",
+    "options": {
+      "0": "Economic inequality",
+      "1": "Lack of privacy",
+      "2": "Fairness in credit scoring",
+      "3": "Environmental damage"
+    },
+    "correct_answer": "Lack of privacy"
+  },
+  {
+    "question": "Question 27: In the EHAZOP examples, a user beginning to treat the robot as an unquestioned authority figure is classified as:",
+    "options": {
+      "0": "Loss of human autonomy only",
+      "1": "Dehumanisation",
+      "2": "Purely a safety hazard without ethical dimension",
+      "3": "Data minimisation"
+    },
+    "correct_answer": "Dehumanisation"
+  },
+  {
+    "question": "Question 28: For the stretching-exercise function of the assistive robot, a key ethical hazard identified is that the user may:",
+    "options": {
+      "0": "Gain too much physical strength",
+      "1": "Lose the ability to recognise body cues without the robot",
+      "2": "Stop paying for the service",
+      "3": "Become more socially connected"
+    },
+    "correct_answer": "Lose the ability to recognise body cues without the robot"
+  },
+  {
+    "question": "Question 29: In the AI-wargaming EHAZOP example, the guide word REPLACE refers to a situation where:",
+    "options": {
+      "0": "AI is removed entirely from the game",
+      "1": "AI completely substitutes for a human performing an activity",
+      "2": "AI performs no decision-making",
+      "3": "AI is used only for graphics rendering"
+    },
+    "correct_answer": "AI completely substitutes for a human performing an activity"
+  },
+  {
+    "question": "Question 30: Using the guide word SECRET in the AI-wargaming EHAZOP example means that:",
+    "options": {
+      "0": "AI is open source",
+      "1": "The full extent of AI use is unknown to at least one human player",
+      "2": "The game has no documentation",
+      "3": "AI is only used in offline training"
+    },
+    "correct_answer": "The full extent of AI use is unknown to at least one human player"
+  },
+  {
+    "question": "Question 31: In Week 1 Lecture B, the module leader describes the law as “the floor”. What does this phrase mean?",
+    "options": {
+      "0": "The law is optional guidance only",
+      "1": "The law represents the minimum behaviour that must be followed",
+      "2": "The law defines the maximum we should aim for",
+      "3": "Ethics are less important than law"
+    },
+    "correct_answer": "The law represents the minimum behaviour that must be followed"
+  },
+  {
+    "question": "Question 32: According to Week 1 Lecture B, which statement best describes the relationship between law and ethics?",
+    "options": {
+      "0": "Ethics and law are identical in practice",
+      "1": "Ethics always take priority over law in court",
+      "2": "Ethics may be broader than law and can justify civil disobedience",
+      "3": "Law is always more demanding than ethical expectations"
+    },
+    "correct_answer": "Ethics may be broader than law and can justify civil disobedience"
+  },
+  {
+    "question": "Question 33: Which three main dimensions structure much of the module content?",
+    "options": {
+      "0": "Economics, marketing, networking",
+      "1": "Law, ethics, professionalism",
+      "2": "Hardware, software, people",
+      "3": "Data, algorithms, interfaces"
+    },
+    "correct_answer": "Law, ethics, professionalism"
+  },
+  {
+    "question": "Question 34: In the module description, environmental sustainability is treated:",
+    "options": {
+      "0": "As completely unrelated to responsible technology",
+      "1": "As a theme that underpins all other concerns in human societies",
+      "2": "As solely a hardware engineering issue",
+      "3": "Only in relation to copyright"
+    },
+    "correct_answer": "As a theme that underpins all other concerns in human societies"
+  },
+  {
+    "question": "Question 35: The individual test for this module is described as:",
+    "options": {
+      "0": "A written essay submitted over one week",
+      "1": "A practical programming exam",
+      "2": "An objective test with multiple-choice and multiple-response questions",
+      "3": "A group presentation assessed by peers"
+    },
+    "correct_answer": "An objective test with multiple-choice and multiple-response questions"
+  },
+  {
+    "question": "Question 36: According to Lecture 03, professional codes of conduct (ACM, BCS) are mainly used to:",
+    "options": {
+      "0": "Replace the need for personal ethical analysis",
+      "1": "Provide duties and rules for computing professionals in their work",
+      "2": "Determine tax liabilities",
+      "3": "Specify hardware standards"
+    },
+    "correct_answer": "Provide duties and rules for computing professionals in their work"
+  },
+  {
+    "question": "Question 37: The ACM Code of Ethics is described as expressing:",
+    "options": {
+      "0": "The financial goals of the industry",
+      "1": "The conscience of the computing profession",
+      "2": "Only legal obligations under GDPR",
+      "3": "Marketing best practice"
+    },
+    "correct_answer": "The conscience of the computing profession"
+  },
+  {
+    "question": "Question 38: The BCS Code of Conduct is presented as:",
+    "options": {
+      "0": "A purely academic guideline for students only",
+      "1": "A unique endorsement of members’ integrity and commitment to the public interest",
+      "2": "A replacement for UK law",
+      "3": "A checklist for system testing"
+    },
+    "correct_answer": "A unique endorsement of members’ integrity and commitment to the public interest"
+  },
+  {
+    "question": "Question 39: When asked to perform an “ethical analysis” in this module, students are expected to:",
+    "options": {
+      "0": "Quote only from the ACM and BCS codes",
+      "1": "Give a personal opinion without justification",
+      "2": "Provide their own reasoned analysis based on ethical theory",
+      "3": "Focus only on whether something is legal"
+    },
+    "correct_answer": "Provide their own reasoned analysis based on ethical theory"
+  },
+  {
+    "question": "Question 40: Which statement about professional issues in this module is correct?",
+    "options": {
+      "0": "They apply to everyone in society equally, not just IT professionals",
+      "1": "They are identical to general ethics",
+      "2": "They specifically concern the behaviour and duties of IT professionals",
+      "3": "They are concerned only with environmental impact"
+    },
+    "correct_answer": "They specifically concern the behaviour and duties of IT professionals"
+  },
+  {
+    "question": "Question 41: What is the primary objective of the UK GDPR as described in your notes?",
+    "options": {
+      "0": "To regulate software patents",
+      "1": "To protect natural persons regarding processing of personal data and free movement of such data",
+      "2": "To control national security activities only",
+      "3": "To manage competition between technology companies"
+    },
+    "correct_answer": "To protect natural persons regarding processing of personal data and free movement of such data"
+  },
+  {
+    "question": "Question 42: Which GDPR Article sets out the principles relating to processing of personal data?",
+    "options": {
+      "0": "Article 3",
+      "1": "Article 4",
+      "2": "Article 5",
+      "3": "Article 32"
+    },
+    "correct_answer": "Article 5"
+  },
+  {
+    "question": "Question 43: Which Article defines the lawfulness of processing (legal bases such as consent, contract, legal obligation)?",
+    "options": {
+      "0": "Article 5",
+      "1": "Article 6",
+      "2": "Article 12",
+      "3": "Article 21"
+    },
+    "correct_answer": "Article 6"
+  },
+  {
+    "question": "Question 44: The “right to be forgotten” is formally named in GDPR as the:",
+    "options": {
+      "0": "Right to restriction of processing",
+      "1": "Right to erasure",
+      "2": "Right to data portability",
+      "3": "Right of access"
+    },
+    "correct_answer": "Right to erasure"
+  },
+  {
+    "question": "Question 45: Under GDPR, the right to data portability is contained in:",
+    "options": {
+      "0": "Article 15",
+      "1": "Article 16",
+      "2": "Article 18",
+      "3": "Article 20"
+    },
+    "correct_answer": "Article 20"
+  },
+  {
+    "question": "Question 46: Which GDPR provision deals with records of processing activities that controllers and processors must maintain?",
+    "options": {
+      "0": "Article 24",
+      "1": "Article 28",
+      "2": "Article 30",
+      "3": "Article 35"
+    },
+    "correct_answer": "Article 30"
+  },
+  {
+    "question": "Question 47: Notifying the regulator (ICO/Commissioner) of a personal data breach is addressed by:",
+    "options": {
+      "0": "Article 32",
+      "1": "Article 33",
+      "2": "Article 34",
+      "3": "Article 37"
+    },
+    "correct_answer": "Article 33"
+  },
+  {
+    "question": "Question 48: Under GDPR, data protection by design and by default is primarily required by:",
+    "options": {
+      "0": "Article 21",
+      "1": "Article 24",
+      "2": "Article 25",
+      "3": "Article 39"
+    },
+    "correct_answer": "Article 25"
+  },
+  {
+    "question": "Question 49: Which Article concerns the designation of a Data Protection Officer (DPO)?",
+    "options": {
+      "0": "Article 28",
+      "1": "Article 35",
+      "2": "Article 37",
+      "3": "Article 51"
+    },
+    "correct_answer": "Article 37"
+  },
+  {
+    "question": "Question 50: Administrative fines and general conditions for imposing them under GDPR are mainly found in:",
+    "options": {
+      "0": "Article 83",
+      "1": "Article 77",
+      "2": "Article 51",
+      "3": "Article 44"
+    },
+    "correct_answer": "Article 83"
+  },
+  {
+    "question": "Question 51: Part 2 of the UK Data Protection Act 2018 (“General Processing”) primarily:",
+    "options": {
+      "0": "Implements the Law Enforcement Directive",
+      "1": "Creates special rules for intelligence services",
+      "2": "Directly implements the UK GDPR for mainstream processing",
+      "3": "Establishes the Information Commissioner’s office"
+    },
+    "correct_answer": "Directly implements the UK GDPR for mainstream processing"
+  },
+  {
+    "question": "Question 52: Which Part of the DPA 2018 contains the special regime for law enforcement processing?",
+    "options": {
+      "0": "Part 2",
+      "1": "Part 3",
+      "2": "Part 4",
+      "3": "Part 6"
+    },
+    "correct_answer": "Part 3"
+  },
+  {
+    "question": "Question 53: The DPA 2018 Part 4 is mainly about:",
+    "options": {
+      "0": "General private-sector processing",
+      "1": "Crime prevention and policing",
+      "2": "Intelligence services and national security processing",
+      "3": "Administrative fines"
+    },
+    "correct_answer": "Intelligence services and national security processing"
+  },
+  {
+    "question": "Question 54: According to your notes, which UK body is given powers and functions in Part 5 of the DPA 2018?",
+    "options": {
+      "0": "Home Office",
+      "1": "Information Commissioner’s Office (ICO)",
+      "2": "Competition and Markets Authority",
+      "3": "Supreme Court"
+    },
+    "correct_answer": "Information Commissioner’s Office (ICO)"
+  },
+  {
+    "question": "Question 55: Which statement best describes the relationship between UK GDPR and DPA 2018?",
+    "options": {
+      "0": "DPA 2018 replaces GDPR entirely with different principles",
+      "1": "DPA 2018 is the UK’s domestic implementation and adaptation of GDPR",
+      "2": "GDPR is optional guidance and not reflected in DPA 2018",
+      "3": "DPA 2018 only covers national security and not general processing"
+    },
+    "correct_answer": "DPA 2018 is the UK’s domestic implementation and adaptation of GDPR"
+  },
+  {
+    "question": "Question 56: Which model of disability locates the problem primarily in society and its organisation, rather than in the individual?",
+    "options": {
+      "0": "Medical model",
+      "1": "Social model",
+      "2": "Biopsychosocial model",
+      "3": "Human rights model"
+    },
+    "correct_answer": "Social model"
+  },
+  {
+    "question": "Question 57: The Equality Act 2010 definition of disability used in the slides is an example of which model?",
+    "options": {
+      "0": "Human rights model",
+      "1": "Social model",
+      "2": "Medical model",
+      "3": "Biopsychosocial model"
+    },
+    "correct_answer": "Medical model"
+  },
+  {
+    "question": "Question 58: The human rights model of disability views disability primarily as:",
+    "options": {
+      "0": "A purely medical problem to cure",
+      "1": "An economic cost to minimise",
+      "2": "Part of human diversity, with equal rights that must not be restricted",
+      "3": "A temporary condition irrelevant to design"
+    },
+    "correct_answer": "Part of human diversity, with equal rights that must not be restricted"
+  },
+  {
+    "question": "Question 59: In the slides, “accessibility” is defined as:",
+    "options": {
+      "0": "A personal trait of users",
+      "1": "A property of technology describing the extent people can productively use it regardless of individual differences",
+      "2": "A marketing strategy",
+      "3": "A legal defence to discrimination claims"
+    },
+    "correct_answer": "A property of technology describing the extent people can productively use it regardless of individual differences"
+  },
+  {
+    "question": "Question 60: Which of the following is identified as a process rather than a property of a product?",
+    "options": {
+      "0": "Accessibility",
+      "1": "Inclusive design",
+      "2": "Disability",
+      "3": "WCAG"
+    },
+    "correct_answer": "Inclusive design"
+  },
+  {
+    "question": "Question 61: WCAG’s four POUR principles state that digital services must be:",
+    "options": {
+      "0": "Precise, Open, Universal, Repeatable",
+      "1": "Perceivable, Operable, Understandable, Robust",
+      "2": "Practical, Optimised, Unique, Reliable",
+      "3": "Portable, Online, Usable, Reactive"
+    },
+    "correct_answer": "Perceivable, Operable, Understandable, Robust"
+  },
+  {
+    "question": "Question 62: Which WCAG conformance level is typically targeted to meet legal accessibility requirements for public sector websites?",
+    "options": {
+      "0": "Level A",
+      "1": "Level AA",
+      "2": "Level AAA",
+      "3": "No specific level"
+    },
+    "correct_answer": "Level AA"
+  },
+  {
+    "question": "Question 63: According to the slides, captions on videos are an example used to show that:",
+    "options": {
+      "0": "Accessibility features benefit only a small group",
+      "1": "Accessibility features are usually too expensive",
+      "2": "Accessibility features can benefit both disabled and non-disabled users",
+      "3": "Captions are not considered an accessibility feature"
+    },
+    "correct_answer": "Accessibility features can benefit both disabled and non-disabled users"
+  },
+  {
+    "question": "Question 64: The Web Content Accessibility Guidelines (WCAG) 2.0 are also published as which international standard?",
+    "options": {
+      "0": "ISO/IEC 27001",
+      "1": "ISO/IEC 40500",
+      "2": "ISO 30071-1",
+      "3": "EN 301 549"
+    },
+    "correct_answer": "ISO/IEC 40500"
+  },
+  {
+    "question": "Question 65: Which principle of Universal Design states that the design should be useful and marketable to people with diverse abilities?",
+    "options": {
+      "0": "Principle 1: Equitable Use",
+      "1": "Principle 3: Simple and Intuitive Use",
+      "2": "Principle 5: Tolerance for Error",
+      "3": "Principle 7: Size and Space for Approach and Use"
+    },
+    "correct_answer": "Principle 1: Equitable Use"
+  },
+  {
+    "question": "Question 66: Under Universal Design, “Tolerance for Error” primarily means:",
+    "options": {
+      "0": "Allowing high error rates in software testing",
+      "1": "Minimising hazards and adverse consequences of accidental or unintended actions",
+      "2": "Accepting that inaccessible designs are inevitable",
+      "3": "Ignoring user mistakes"
+    },
+    "correct_answer": "Minimising hazards and adverse consequences of accidental or unintended actions"
+  },
+  {
+    "question": "Question 67: The lecture contrasts equality and equity in accessibility. According to the slides:",
+    "options": {
+      "0": "Equality and equity are identical",
+      "1": "Equality means everyone has identical interfaces, equity means individual needs are represented",
+      "2": "Equity means treating everyone the same",
+      "3": "Equality focuses only on disabled users"
+    },
+    "correct_answer": "Equality means everyone has identical interfaces, equity means individual needs are represented"
+  },
+  {
+    "question": "Question 68: Which statement about inclusive design in the slides is correct?",
+    "options": {
+      "0": "It is a specific product that can be purchased",
+      "1": "It avoids involving disabled users to save time",
+      "2": "It uses diverse, representative users in the design process and tools",
+      "3": "It focuses only on visual impairments"
+    },
+    "correct_answer": "It uses diverse, representative users in the design process and tools"
+  },
+  {
+    "question": "Question 69: According to Lecture 02B, copyright in software source code:",
+    "options": {
+      "0": "Must be applied for in each jurisdiction like a patent",
+      "1": "Arises automatically for the author without registration",
+      "2": "Only applies to binaries, not source code",
+      "3": "Lasts a maximum of 20 years"
+    },
+    "correct_answer": "Arises automatically for the author without registration"
+  },
+  {
+    "question": "Question 70: Which statement about patents in the slides is correct?",
+    "options": {
+      "0": "Source code in the UK is routinely patented",
+      "1": "You automatically receive a patent when you write software",
+      "2": "Patents require an application, must be novel, and usually last up to 20 years",
+      "3": "Patents and copyright are the same right"
+    },
+    "correct_answer": "Patents require an application, must be novel, and usually last up to 20 years"
+  },
+  {
+    "question": "Question 71: A permissive open-source licence (e.g. MIT, Apache 2.0) generally:",
+    "options": {
+      "0": "Requires all modified code to be distributed under GPL",
+      "1": "Allows broad reuse, including commercial, with few restrictions beyond attribution and licence notice",
+      "2": "Forbids commercial use",
+      "3": "Requires that source code never be modified"
+    },
+    "correct_answer": "Allows broad reuse, including commercial, with few restrictions beyond attribution and licence notice"
+  },
+  {
+    "question": "Question 72: A copyleft licence such as GPL v3 requires that:",
+    "options": {
+      "0": "Source code never be shared",
+      "1": "All derivatives are distributed under the same copyleft licence",
+      "2": "Only non-commercial use is allowed",
+      "3": "Patents are automatically granted"
+    },
+    "correct_answer": "All derivatives are distributed under the same copyleft licence"
+  },
+  {
+    "question": "Question 73: The slides warn that “public domain” software with no licence should be approached cautiously because:",
+    "options": {
+      "0": "Public domain is illegal in the UK",
+      "1": "It may actually contain pirated code incorrectly presented as licence-free",
+      "2": "It never allows redistribution",
+      "3": "It is always better than open source"
+    },
+    "correct_answer": "It may actually contain pirated code incorrectly presented as licence-free"
+  },
+  {
+    "question": "Question 74: According to the ACM Code of Ethics, contributing to society and human well-being is listed as:",
+    "options": {
+      "0": "A minor optional guideline",
+      "1": "Principle 1.1, a fundamental ethical principle",
+      "2": "Only relevant for managers",
+      "3": "A requirement only in safety-critical systems"
+    },
+    "correct_answer": "Principle 1.1, a fundamental ethical principle"
+  },
+  {
+    "question": "Question 75: In the ACM Code, “avoid harm” refers to:",
+    "options": {
+      "0": "Only physical injury",
+      "1": "Any significant and unjust negative consequences, including damage to information, property, reputation and environment",
+      "2": "Purely financial losses",
+      "3": "Only intentional misuse"
+    },
+    "correct_answer": "Any significant and unjust negative consequences, including damage to information, property, reputation and environment"
+  },
+  {
+    "question": "Question 76: Which ACM principle emphasises respecting privacy, including minimising personal data collected and defining retention and disposal periods?",
+    "options": {
+      "0": "1.3 Be honest and trustworthy",
+      "1": "1.4 Be fair and not discriminate",
+      "2": "1.6 Respect privacy",
+      "3": "2.1 Achieve high quality"
+    },
+    "correct_answer": "1.6 Respect privacy"
+  },
+  {
+    "question": "Question 77: The BCS Code of Conduct section “Public Interest” requires members to:",
+    "options": {
+      "0": "Prioritise employer profit at all times",
+      "1": "Have due regard for public health, privacy, security, wellbeing and the environment",
+      "2": "Ignore third-party rights if they hinder innovation",
+      "3": "Work only for public-sector organisations"
+    },
+    "correct_answer": "Have due regard for public health, privacy, security, wellbeing and the environment"
+  },
+  {
+    "question": "Question 78: Under Professional Competence and Integrity in the BCS Code, members must:",
+    "options": {
+      "0": "Claim higher competence to win contracts",
+      "1": "Only update skills once at the start of their career",
+      "2": "Undertake continuing professional development and not claim competence they do not possess",
+      "3": "Ignore legislation if the client requests it"
+    },
+    "correct_answer": "Undertake continuing professional development and not claim competence they do not possess"
+  },
+  {
+    "question": "Question 79: The Duty to Relevant Authority section of the BCS Code requires that members:",
+    "options": {
+      "0": "Disclose confidential information whenever it is profitable",
+      "1": "Accept no responsibility for supervised colleagues",
+      "2": "Carry out responsibilities with due care and diligence and accept professional responsibility for their work",
+      "3": "Always follow instructions even if they are clearly unethical"
+    },
+    "correct_answer": "Carry out responsibilities with due care and diligence and accept professional responsibility for their work"
+  },
+  {
+    "question": "Question 80: According to the BCS Code, Duty to the Profession includes an obligation to:",
+    "options": {
+      "0": "Compete with other professionals by any means necessary",
+      "1": "Uphold the reputation of the profession and of BCS",
+      "2": "Treat violations of the Code as irrelevant",
+      "3": "Avoid sharing knowledge with others"
+    },
+    "correct_answer": "Uphold the reputation of the profession and of BCS"
+  },
+  {
+    "question": "Question 81: Which of the following is not one of the core GDPR principles in Article 5?",
+    "options": {
+      "0": "Lawfulness, fairness and transparency",
+      "1": "Purpose limitation",
+      "2": "Storage limitation",
+      "3": "Patentability"
+    },
+    "correct_answer": "Patentability"
+  },
+  {
+    "question": "Question 82: The GDPR principle of data minimisation requires that personal data be:",
+    "options": {
+      "0": "Kept forever for future research",
+      "1": "Adequate, relevant and limited to what is necessary",
+      "2": "Encrypted with military-grade algorithms",
+      "3": "Stored only in the EU"
+    },
+    "correct_answer": "Adequate, relevant and limited to what is necessary"
+  },
+  {
+    "question": "Question 83: The right of access (subject access) allows individuals to:",
+    "options": {
+      "0": "Prevent any processing for marketing",
+      "1": "Obtain a copy of their personal data and supplementary information",
+      "2": "Force a controller to delete all backups",
+      "3": "Demand financial compensation automatically"
+    },
+    "correct_answer": "Obtain a copy of their personal data and supplementary information"
+  },
+  {
+    "question": "Question 84: Which right allows a data subject to receive their personal data in a structured, commonly used and machine-readable format and transmit it to another controller?",
+    "options": {
+      "0": "Right to restriction of processing",
+      "1": "Right to data portability",
+      "2": "Right to object",
+      "3": "Right to rectification"
+    },
+    "correct_answer": "Right to data portability"
+  },
+  {
+    "question": "Question 85: The right to object under GDPR is particularly strong where processing is based on:",
+    "options": {
+      "0": "Legal obligation",
+      "1": "Vital interests",
+      "2": "Public task or legitimate interests, especially for direct marketing",
+      "3": "Contract performance only"
+    },
+    "correct_answer": "Public task or legitimate interests, especially for direct marketing"
+  },
+  {
+    "question": "Question 86: Which of the following is a typical trigger for a Data Protection Impact Assessment (DPIA)?",
+    "options": {
+      "0": "Any processing by a small company",
+      "1": "Occasional manual processing of paper files",
+      "2": "High-risk processing such as large-scale monitoring or profiling",
+      "3": "Publishing a marketing brochure"
+    },
+    "correct_answer": "High-risk processing such as large-scale monitoring or profiling"
+  },
+  {
+    "question": "Question 87: In the UK GDPR/DPA 2018 framework, who is primarily responsible for monitoring application of the Regulation?",
+    "options": {
+      "0": "Home Secretary",
+      "1": "Information Commissioner",
+      "2": "Prime Minister",
+      "3": "High Court"
+    },
+    "correct_answer": "Information Commissioner"
+  },
+  {
+    "question": "Question 88: Under GDPR, a processor must:",
+    "options": {
+      "0": "Determine the purposes of processing",
+      "1": "Process personal data only on documented instructions from the controller",
+      "2": "Never be located outside the UK",
+      "3": "Register directly with the European Data Protection Board"
+    },
+    "correct_answer": "Process personal data only on documented instructions from the controller"
+  },
+  {
+    "question": "Question 89: Which statement about international transfers under GDPR is correct?",
+    "options": {
+      "0": "They are banned in all circumstances",
+      "1": "They are allowed only to US companies",
+      "2": "They require an adequacy decision, appropriate safeguards or a specific derogation",
+      "3": "They require consent in every case"
+    },
+    "correct_answer": "They require an adequacy decision, appropriate safeguards or a specific derogation"
+  },
+  {
+    "question": "Question 90: A personal data breach that is unlikely to result in a risk to rights and freedoms:",
+    "options": {
+      "0": "Must always be reported to the data subjects",
+      "1": "Need not be reported to the Commissioner",
+      "2": "Automatically leads to a fine",
+      "3": "Is not considered a breach"
+    },
+    "correct_answer": "Need not be reported to the Commissioner"
+  },
+  {
+    "question": "Question 91: In the accessibility lecture, Tim Berners-Lee’s quote is used to emphasise that the power of the web lies in its:",
+    "options": {
+      "0": "Profitability",
+      "1": "Universality and access by everyone regardless of disability",
+      "2": "Use of modern JavaScript",
+      "3": "High-definition graphics"
+    },
+    "correct_answer": "Universality and access by everyone regardless of disability"
+  },
+  {
+    "question": "Question 92: Which legislation is cited as a general equality law relevant to disability and accessibility in the UK?",
+    "options": {
+      "0": "Web Accessibility Directive 2016",
+      "1": "Equality Act 2010",
+      "2": "Americans with Disabilities Act 1990",
+      "3": "EN 301 549"
+    },
+    "correct_answer": "Equality Act 2010"
+  },
+  {
+    "question": "Question 93: According to the slides, the Equality Act 2010 requires organisations to:",
+    "options": {
+      "0": "Provide identical interfaces to all users",
+      "1": "Anticipate and make reasonable adjustments for disabled people",
+      "2": "Only react when an individual sues",
+      "3": "Follow WCAG AAA as a legal minimum"
+    },
+    "correct_answer": "Anticipate and make reasonable adjustments for disabled people"
+  },
+  {
+    "question": "Question 94: The European Web Accessibility Directive 2016 primarily applies to:",
+    "options": {
+      "0": "Private online gaming platforms only",
+      "1": "Public sector websites and apps in EU member states",
+      "2": "All printed publications",
+      "3": "Hardware manufacturing only"
+    },
+    "correct_answer": "Public sector websites and apps in EU member states"
+  },
+  {
+    "question": "Question 95: Which WCAG level is described as providing “improvements and enhancements” and can be difficult to achieve without trade-offs?",
+    "options": {
+      "0": "Level A",
+      "1": "Level AA",
+      "2": "Level AAA",
+      "3": "No level"
+    },
+    "correct_answer": "Level AAA"
+  },
+  {
+    "question": "Question 96: “Universal design” is said to be rooted in the built environment and aims to:",
+    "options": {
+      "0": "Optimise designs for one average user",
+      "1": "Ensure the widest possible number of people can use an environment or product",
+      "2": "Support only wheelchair users",
+      "3": "Replace all legal obligations"
+    },
+    "correct_answer": "Ensure the widest possible number of people can use an environment or product"
+  },
+  {
+    "question": "Question 97: The inclusive-design principle “Provide comparable experience” mainly means:",
+    "options": {
+      "0": "All users must see identical layouts",
+      "1": "Alternative modes (e.g. captions, keyboard navigation) should offer equivalent outcomes",
+      "2": "Only sighted users get the full experience",
+      "3": "Mobile users are given reduced content"
+    },
+    "correct_answer": "Alternative modes (e.g. captions, keyboard navigation) should offer equivalent outcomes"
+  },
+  {
+    "question": "Question 98: “Recognize diversity and uniqueness” in inclusive design emphasises that designers should:",
+    "options": {
+      "0": "Standardise everything to reduce cost",
+      "1": "Avoid configurable interfaces",
+      "2": "Consider varied individual traits rather than a one-size-fits-all solution",
+      "3": "Design only for the majority language"
+    },
+    "correct_answer": "Consider varied individual traits rather than a one-size-fits-all solution"
+  },
+  {
+    "question": "Question 99: In the lecture, an ethical consequentialist argument for accessibility is that:",
+    "options": {
+      "0": "It is required by contract",
+      "1": "Accessible technology benefits both disabled people and society by enabling fuller participation",
+      "2": "It always reduces profits",
+      "3": "It is easier to code"
+    },
+    "correct_answer": "Accessible technology benefits both disabled people and society by enabling fuller participation"
+  },
+  {
+    "question": "Question 100: The ACM Code states that computing professionals should “be honest and trustworthy”, which includes:",
+    "options": {
+      "0": "Hiding system limitations from clients",
+      "1": "Fabricating data when deadlines are tight",
+      "2": "Providing full disclosure of capabilities, limitations and potential problems",
+      "3": "Refusing to admit mistakes"
+    },
+    "correct_answer": "Providing full disclosure of capabilities, limitations and potential problems"
+  },
+  {
+    "question": "Question 101: Which ACM principle explicitly addresses fairness and non-discrimination?",
+    "options": {
+      "0": "1.2 Avoid harm",
+      "1": "1.3 Be honest and trustworthy",
+      "2": "1.4 Be fair and take action not to discriminate",
+      "3": "2.5 Give comprehensive evaluations"
+    },
+    "correct_answer": "1.4 Be fair and take action not to discriminate"
+  },
+  {
+    "question": "Question 102: In the ACM Code, failure to design for inclusiveness and accessibility may be treated as:",
+    "options": {
+      "0": "A purely technical bug",
+      "1": "A form of unfair discrimination",
+      "2": "Legally required in every country",
+      "3": "Ethically neutral"
+    },
+    "correct_answer": "A form of unfair discrimination"
+  },
+  {
+    "question": "Question 103: Which ACM professional responsibility focuses on seeking and providing peer review?",
+    "options": {
+      "0": "2.1 High quality work",
+      "1": "2.3 Know and respect rules",
+      "2": "2.4 Accept and provide appropriate professional review",
+      "3": "2.8 Access resources only when authorised"
+    },
+    "correct_answer": "2.4 Accept and provide appropriate professional review"
+  },
+  {
+    "question": "Question 104: According to the ACM Code, computing professionals should access computing resources without authorisation only when:",
+    "options": {
+      "0": "They are testing a friend’s security",
+      "1": "They believe it is consistent with the public good and take extraordinary precautions",
+      "2": "They want to learn hacking",
+      "3": "Their manager tells them informally"
+    },
+    "correct_answer": "They believe it is consistent with the public good and take extraordinary precautions"
+  },
+  {
+    "question": "Question 105: The ACM leadership principle 3.1 emphasises that in all professional computing work:",
+    "options": {
+      "0": "Shareholder value is the central concern",
+      "1": "The public good should be the central concern",
+      "2": "Speed of delivery is paramount",
+      "3": "Technical novelty is most important"
+    },
+    "correct_answer": "The public good should be the central concern"
+  },
+  {
+    "question": "Question 106: In the BCS Code, “Legislation” is defined as:",
+    "options": {
+      "0": "Only UK primary Acts",
+      "1": "Any applicable laws, statutes and regulations",
+      "2": "Only EU regulations",
+      "3": "Professional standards"
+    },
+    "correct_answer": "Any applicable laws, statutes and regulations"
+  },
+  {
+    "question": "Question 107: Under the BCS Code, if a member becomes aware of another member’s serious breach of the Code, they are:",
+    "options": {
+      "0": "Free to ignore it",
+      "1": "Required to notify BCS",
+      "2": "Required to notify the police directly",
+      "3": "Prohibited from mentioning it to anyone"
+    },
+    "correct_answer": "Required to notify BCS"
+  },
+  {
+    "question": "Question 108: The BCS Code states that members must conduct professional activities without discrimination on grounds such as:",
+    "options": {
+      "0": "Only age and nationality",
+      "1": "Any legally protected characteristic including sex, race, religion, disability",
+      "2": "Only disability",
+      "3": "Only gender"
+    },
+    "correct_answer": "Any legally protected characteristic including sex, race, religion, disability"
+  },
+  {
+    "question": "Question 109: In Lecture 02B, the story of Microsoft and IBM over MS-DOS is used mainly to illustrate:",
+    "options": {
+      "0": "Patent infringement law",
+      "1": "The importance of software licensing and ownership decisions",
+      "2": "Cyber-security vulnerabilities",
+      "3": "Accessibility failures"
+    },
+    "correct_answer": "The importance of software licensing and ownership decisions"
+  },
+  {
+    "question": "Question 110: Which best summarises the risk of using third-party code from GitHub without checking licences?",
+    "options": {
+      "0": "There is no risk if the repository is public",
+      "1": "You may unknowingly breach copyright or licence terms",
+      "2": "GitHub automatically guarantees licence compliance",
+      "3": "All GitHub code is public domain"
+    },
+    "correct_answer": "You may unknowingly breach copyright or licence terms"
+  },
+  {
+    "question": "Question 111: The lecture suggests that consequence scanning events can:",
+    "options": {
+      "0": "Replace all legal review",
+      "1": "Help teams identify intended and unintended consequences of features",
+      "2": "Guarantee that no ethical issues remain",
+      "3": "Only be run by regulators"
+    },
+    "correct_answer": "Help teams identify intended and unintended consequences of features"
+  },
+  {
+    "question": "Question 112: In Lecture 03, “the law is the floor” is echoed in accessibility where meeting WCAG AA is:",
+    "options": {
+      "0": "The ultimate ethical goal",
+      "1": "The minimum legal requirement; ethical responsibility may go further",
+      "2": "Optional marketing material",
+      "3": "Equivalent to AAA"
+    },
+    "correct_answer": "The minimum legal requirement; ethical responsibility may go further"
+  },
+  {
+    "question": "Question 113: According to the module materials, professional issues differ from general ethics because they:",
+    "options": {
+      "0": "Apply only to law students",
+      "1": "Apply specifically to the conduct of IT professionals in their roles",
+      "2": "Ignore environmental concerns",
+      "3": "Replace all legal duties"
+    },
+    "correct_answer": "Apply specifically to the conduct of IT professionals in their roles"
+  },
+  {
+    "question": "Question 114: The ACM Code explicitly encourages whistle-blowing when:",
+    "options": {
+      "0": "It can embarrass a competitor",
+      "1": "There are signs of system risks and leaders fail to act, after careful assessment",
+      "2": "A colleague makes a minor mistake",
+      "3": "It will increase media attention"
+    },
+    "correct_answer": "There are signs of system risks and leaders fail to act, after careful assessment"
+  },
+  {
+    "question": "Question 115: Which statement best captures the ethical message across the ethics, GDPR and accessibility materials?",
+    "options": {
+      "0": "Legal compliance alone is sufficient",
+      "1": "Technology professionals must consider wider impacts on rights, fairness, inclusion and long-term consequences",
+      "2": "Ethics is only relevant once a complaint is made",
+      "3": "Accessibility and privacy are technical details for specialists only"
+    },
+    "correct_answer": "Technology professionals must consider wider impacts on rights, fairness, inclusion and long-term consequences"
+  },
+  {
+    "question": "Question 116: Which of the following best describes EHAZOP?",
+    "options": {
+      "0": "A legal compliance checklist for GDPR",
+      "1": "An ethical hazard and operability study based on HAZOP, using guide words to find ethical risks",
+      "2": "A performance-testing methodology",
+      "3": "A software licensing model"
+    },
+    "correct_answer": "An ethical hazard and operability study based on HAZOP, using guide words to find ethical risks"
+  },
+  {
+    "question": "Question 117: EHAZOP is explicitly inspired by which UK framework/standard?",
+    "options": {
+      "0": "BS EN 301 549",
+      "1": "ISO 27001",
+      "2": "UK MOD HAZOP framework (BS EN 61882)",
+      "3": "IEEE 802.11"
+    },
+    "correct_answer": "UK MOD HAZOP framework (BS EN 61882)"
+  },
+  {
+    "question": "Question 118: In EHAZOP, “ethical harm” is defined as anything likely to compromise:",
+    "options": {
+      "0": "Only financial performance",
+      "1": "Psychological, societal or environmental well-being",
+      "2": "Only physical safety",
+      "3": "Intellectual property rights"
+    },
+    "correct_answer": "Psychological, societal or environmental well-being"
+  },
+  {
+    "question": "Question 119: Which role is highlighted as critical in an EHAZOP study?",
+    "options": {
+      "0": "Marketing manager",
+      "1": "Project sponsor",
+      "2": "Facilitator who leads the structured discussion",
+      "3": "External auditor"
+    },
+    "correct_answer": "Facilitator who leads the structured discussion"
+  },
+  {
+    "question": "Question 120: Why does the lecture say there is “no clear right answer” in EHAZOP?",
+    "options": {
+      "0": "Because hazards are purely objective",
+      "1": "Because ethical assessment depends on the team’s expertise and judgement",
+      "2": "Because the method is statistically invalid",
+      "3": "Because guide words are randomly chosen"
+    },
+    "correct_answer": "Because ethical assessment depends on the team’s expertise and judgement"
+  },
+  {
+    "question": "Question 121: In the assistive-robot EHAZOP example, which function relates to suggesting guided stretching exercises after inactivity?",
+    "options": {
+      "0": "Function 1 – medication reminders",
+      "1": "Function 2 – detecting loneliness and offering video calls",
+      "2": "Function 3 – prompting stretching exercises",
+      "3": "Function 4 – managing finances"
+    },
+    "correct_answer": "Function 3 – prompting stretching exercises"
+  },
+  {
+    "question": "Question 122: For the assistive-robot’s stretching function, the identified hazard “loss of human autonomy” mainly refers to:",
+    "options": {
+      "0": "Robot damaging furniture",
+      "1": "User losing ability to recognise body cues or exercise without coaching",
+      "2": "Robot ignoring user requests",
+      "3": "Robot stealing personal data"
+    },
+    "correct_answer": "User losing ability to recognise body cues or exercise without coaching"
+  },
+  {
+    "question": "Question 123: In the AI-wargaming example, which use of AI is not listed as a function?",
+    "options": {
+      "0": "Simulating other players",
+      "1": "Procedural content generation",
+      "2": "Game design and play-testing",
+      "3": "Tax calculation"
+    },
+    "correct_answer": "Tax calculation"
+  },
+  {
+    "question": "Question 124: Using AI to completely replace human game designers in the wargame is captured by which guide word?",
+    "options": {
+      "0": "SUPPORT",
+      "1": "SECRET",
+      "2": "REPLACE",
+      "3": "OPEN"
+    },
+    "correct_answer": "REPLACE"
+  },
+  {
+    "question": "Question 125: Using AI to assist but not fully substitute human designers is captured by:",
+    "options": {
+      "0": "REPLACE",
+      "1": "SUPPORT",
+      "2": "SECRET",
+      "3": "OPEN"
+    },
+    "correct_answer": "SUPPORT"
+  },
+  {
+    "question": "Question 126: If the full extent of AI use in a wargame is unknown to at least one human player, which guide word applies?",
+    "options": {
+      "0": "OPEN",
+      "1": "SECRET",
+      "2": "REPLACE",
+      "3": "SUPPORT"
+    },
+    "correct_answer": "SECRET"
+  },
+  {
+    "question": "Question 127: The EHAZOP notes state there is no metric or rubric to know when all hazards have been identified, because:",
+    "options": {
+      "0": "The process is purely quantitative",
+      "1": "Ethical and safety assessment depend on creativity and expertise",
+      "2": "Once 10 hazards are found the study ends",
+      "3": "Standards forbid more than 20 hazards"
+    },
+    "correct_answer": "Ethical and safety assessment depend on creativity and expertise"
+  },
+  {
+    "question": "Question 128: Which statement about guide words in EHAZOP is correct?",
+    "options": {
+      "0": "The same fixed list applies to every system",
+      "1": "They must always refer to time deviations only",
+      "2": "They are specific to each application and must be defined for each system",
+      "3": "They are optional and rarely used"
+    },
+    "correct_answer": "They are specific to each application and must be defined for each system"
+  },
+  {
+    "question": "Question 129: The lecture emphasises that when applying EHAZOP, debate and discussion are essential because:",
+    "options": {
+      "0": "They help uncover creative ethical hazards",
+      "1": "They reduce legal liability",
+      "2": "They shorten the study",
+      "3": "They eliminate the need for documentation"
+    },
+    "correct_answer": "They help uncover creative ethical hazards"
+  },
+  {
+    "question": "Question 130: In the ICT lifecycle lecture, why do we use a lifecycle view of ICT products and services?",
+    "options": {
+      "0": "To see where environmental impacts happen from raw materials to end-of-life, so we can reduce harm",
+      "1": "To replace all legal and ethical analysis with environmental analysis only",
+      "2": "To measure only the speed and memory use of software",
+      "3": "To focus only on user-interface design"
+    },
+    "correct_answer": "To see where environmental impacts happen from raw materials to end-of-life, so we can reduce harm"
+  },
+  {
+    "question": "Question 131: In the linear ICT lifecycle model, which stage comes first?",
+    "options": {
+      "0": "Raw material acquisition (mining and processing materials)",
+      "1": "Production (manufacturing devices and infrastructure)",
+      "2": "Operation / use (running devices and data centres)",
+      "3": "End-of-life (disposal, recycling, e-waste)"
+    },
+    "correct_answer": "Raw material acquisition (mining and processing materials)"
+  },
+  {
+    "question": "Question 132: In the ICT lifecycle lecture, what is a “second order effect” of ICT?",
+    "options": {
+      "0": "A direct impact from making and disposing of ICT (e.g., toxic mining waste)",
+      "1": "An indirect, context-dependent impact caused by how ICT changes behaviour and consumption (e.g., rebound effects)",
+      "2": "A hardware fault that causes a device to fail",
+      "3": "A penalty issued by a regulator for non-compliance"
+    },
+    "correct_answer": "An indirect, context-dependent impact caused by how ICT changes behaviour and consumption (e.g., rebound effects)"
+  },
+  {
+    "question": "Question 133: In OrganisationalCulture.pptx, organisational culture is best described as:",
+    "options": {
+      "0": "The physical architecture of the building",
+      "1": "Shared values, norms and behaviours within an organisation",
+      "2": "Individual personality tests",
+      "3": "National law"
+    },
+    "correct_answer": "Shared values, norms and behaviours within an organisation"
+  },
+  {
+    "question": "Question 134: Which of the following is likely to reinforce organisational culture according to the slides?",
+    "options": {
+      "0": "Random decision-making",
+      "1": "Consistent leadership messages and reward structures",
+      "2": "Ignoring employee feedback",
+      "3": "Frequent unplanned reorganisations"
+    },
+    "correct_answer": "Consistent leadership messages and reward structures"
+  },
+  {
+    "question": "Question 135: The organisational-culture lecture links culture to professional ethics by noting that:",
+    "options": {
+      "0": "Culture has no impact on ethical behaviour",
+      "1": "A strong culture can support or undermine ethical and professional conduct",
+      "2": "Professional codes override culture completely",
+      "3": "Only national culture matters"
+    },
+    "correct_answer": "A strong culture can support or undermine ethical and professional conduct"
+  },
+  {
+    "question": "Question 136: Lecture 03 notes that when doing ethical analysis of a scenario you should:",
+    "options": {
+      "0": "Only count legal violations",
+      "1": "Identify actors, duties (deontology) and consequences (consequentialism)",
+      "2": "Focus purely on personal feelings",
+      "3": "Ignore unintended consequences"
+    },
+    "correct_answer": "Identify actors, duties (deontology) and consequences (consequentialism)"
+  },
+  {
+    "question": "Question 137: In the “veg-enough” app example, which is not listed as a potential negative consequence?",
+    "options": {
+      "0": "Users’ privacy being diminished",
+      "1": "Users being denied health insurance",
+      "2": "Users becoming more physically active",
+      "3": "Users obsessively logging food intake"
+    },
+    "correct_answer": "Users becoming more physically active"
+  },
+  {
+    "question": "Question 138: The lecture suggests that selling user data from the veg-enough app to third parties could lead to:",
+    "options": {
+      "0": "Reduced marketing costs only",
+      "1": "Guilt- or fear-inducing messages aimed at selling products",
+      "2": "Stronger legal protection for users",
+      "3": "Completely anonymised data in all cases"
+    },
+    "correct_answer": "Guilt- or fear-inducing messages aimed at selling products"
+  },
+  {
+    "question": "Question 139: In the context of Ethical OS, Risk Zone 5 questions such as “What could governments do with this data if they were granted access?” belong to which area?",
+    "options": {
+      "0": "Addiction and dopamine economy",
+      "1": "Surveillance state",
+      "2": "Economic asset inequalities",
+      "3": "Hateful and criminal actors"
+    },
+    "correct_answer": "Surveillance state"
+  },
+  {
+    "question": "Question 140: The Week 1 lecture explains that technology can outpace regulation, so academics and technologists must:",
+    "options": {
+      "0": "Wait for new laws before acting",
+      "1": "Consider ethics beyond the strict limits of current law",
+      "2": "Ignore legal requirements",
+      "3": "Focus only on technical performance"
+    },
+    "correct_answer": "Consider ethics beyond the strict limits of current law"
+  },
+  {
+    "question": "Question 141: Which assignment in 7COM2001 is explicitly described as an objective test with MCQs/MRQs?",
+    "options": {
+      "0": "Individual critical analysis",
+      "1": "Team presentation",
+      "2": "Individual test",
+      "3": "Group project"
+    },
+    "correct_answer": "Individual test"
+  },
+  {
+    "question": "Question 142: Lecture 02B describes software licences – commercial (e.g. EULA, SaaS) as typically allowing users to:",
+    "options": {
+      "0": "Own the software and resell it freely",
+      "1": "Use the software under terms set by the licence, without owning the code",
+      "2": "Modify and redistribute source code without restriction",
+      "3": "Automatically obtain patents"
+    },
+    "correct_answer": "Use the software under terms set by the licence, without owning the code"
+  },
+  {
+    "question": "Question 143: In the discussion of bespoke software, a key question for a developer and client is:",
+    "options": {
+      "0": "Which programming language to use",
+      "1": "Who owns the software IP and rights after delivery",
+      "2": "Whether to use cloud hosting",
+      "3": "How many developers to hire"
+    },
+    "correct_answer": "Who owns the software IP and rights after delivery"
+  },
+  {
+    "question": "Question 144: The lecture warns that if your contract gives full ownership of code to a previous client, then for later projects you:",
+    "options": {
+      "0": "May freely reuse that code",
+      "1": "Must license it from the client or rewrite it",
+      "2": "Can treat it as open source",
+      "3": "Can only reuse it in open-source projects"
+    },
+    "correct_answer": "Must license it from the client or rewrite it"
+  },
+  {
+    "question": "Question 145: In Lecture 03, when asked to do a legal analysis, students are expected to consider:",
+    "options": {
+      "0": "General ethical theories only",
+      "1": "Which areas of law apply (e.g. GDPR, Computer Misuse Act, Equality Act, copyright)",
+      "2": "Only ACM/BCS codes",
+      "3": "Project management frameworks"
+    },
+    "correct_answer": "Which areas of law apply (e.g. GDPR, Computer Misuse Act, Equality Act, copyright)"
+  },
+  {
+    "question": "Question 146: The lecture lists the Equality Act 2010 as relevant when analysing:",
+    "options": {
+      "0": "Cybercrime offences only",
+      "1": "Issues of discrimination and protected characteristics",
+      "2": "Software patents",
+      "3": "Taxation of tech companies"
+    },
+    "correct_answer": "Issues of discrimination and protected characteristics"
+  },
+  {
+    "question": "Question 147: According to the ACM Code, designing systems that are robustly and usably secure (Principle 2.9) includes:",
+    "options": {
+      "0": "Ignoring post-deployment threats",
+      "1": "Making security features intuitive and avoiding measures that inhibit legitimate use",
+      "2": "Forcing users to memorise complex passwords without support",
+      "3": "Prioritising performance over security"
+    },
+    "correct_answer": "Making security features intuitive and avoiding measures that inhibit legitimate use"
+  },
+  {
+    "question": "Question 148: The ACM Code notes that when future risks of a machine-learning system cannot be reliably predicted, developers should:",
+    "options": {
+      "0": "Deploy immediately and monitor complaints",
+      "1": "Never run tests",
+      "2": "Frequently reassess risk or avoid deploying the system",
+      "3": "Ignore the issue"
+    },
+    "correct_answer": "Frequently reassess risk or avoid deploying the system"
+  },
+  {
+    "question": "Question 149: According to the BCS Code’s guidance, acting in the public interest may include:",
+    "options": {
+      "0": "Disregarding personal data protection",
+      "1": "Protecting personal identifiable data and respecting IP rights",
+      "2": "Refusing to co-operate with regulators",
+      "3": "Publishing all client information online"
+    },
+    "correct_answer": "Protecting personal identifiable data and respecting IP rights"
+  },
+  {
+    "question": "Question 150: The BCS Code’s Appendix states that in a “first-of-kind” project, a member should:",
+    "options": {
+      "0": "Avoid peer review to move faster",
+      "1": "Make use of peer review and support where appropriate",
+      "2": "Ignore legislation until the project ends",
+      "3": "Transfer responsibility entirely to contractors"
+    },
+    "correct_answer": "Make use of peer review and support where appropriate"
+  },
+  {
+    "question": "Question 151: Organisational culture can support responsible technology if:",
+    "options": {
+      "0": "Whistle-blowers are punished",
+      "1": "Management rewards only speed and ignores ethics",
+      "2": "Policies explicitly reference professional codes and encourage raising concerns",
+      "3": "All decisions are made informally"
+    },
+    "correct_answer": "Policies explicitly reference professional codes and encourage raising concerns"
+  },
+  {
+    "question": "Question 152: The Responsible Technology module links environmental sustainability to technology by stating that:",
+    "options": {
+      "0": "Environmental issues are separate from tech",
+      "1": "Environmental concerns underpin many legal and ethical issues in human societies",
+      "2": "Only hardware manufacturing affects the environment",
+      "3": "Software has no environmental impact"
+    },
+    "correct_answer": "Environmental concerns underpin many legal and ethical issues in human societies"
+  },
+  {
+    "question": "Question 153: Across the lectures, a recurring theme is that good intent in technology design:",
+    "options": {
+      "0": "Is sufficient to avoid ethical problems",
+      "1": "Must be backed by systematic identification and mitigation of risks",
+      "2": "Makes legal analysis unnecessary",
+      "3": "Guarantees accessibility"
+    },
+    "correct_answer": "Must be backed by systematic identification and mitigation of risks"
+  },
+  {
+    "question": "Question 154: According to the accessibility lecture, progressive enhancement means:",
+    "options": {
+      "0": "Designing only for the latest devices",
+      "1": "Starting with basic accessible content for all, then adding enhancements that never undermine that base",
+      "2": "Adding advanced features first and worrying about basic access later",
+      "3": "Targeting a single browser"
+    },
+    "correct_answer": "Starting with basic accessible content for all, then adding enhancements that never undermine that base"
+  },
+  {
+    "question": "Question 155: Across the Responsible Technology module, early-stage requirement-gathering should include:",
+    "options": {
+      "0": "Only functional and performance requirements",
+      "1": "Ethical, legal, accessibility and professional requirements as well as functional ones",
+      "2": "Market-share predictions only",
+      "3": "Testing plans only"
+    },
+    "correct_answer": "Ethical, legal, accessibility and professional requirements as well as functional ones"
+  },
+  {
+    "question": "Question 156: According to UK data-protection guidance, which of the following is not one of the eight fundamental data-subject rights?",
+    "options": {
+      "0": "Right to be informed",
+      "1": "Right to rectification",
+      "2": "Right to data portability",
+      "3": "Right to receive financial compensation in all cases"
+    },
+    "correct_answer": "Right to receive financial compensation in all cases"
+  },
+  {
+    "question": "Question 157: The right to be informed is usually met by providing:",
+    "options": {
+      "0": "A software licence",
+      "1": "A clear privacy notice explaining how and why data is used",
+      "2": "A tax statement",
+      "3": "A marketing brochure"
+    },
+    "correct_answer": "A clear privacy notice explaining how and why data is used"
+  },
+  {
+    "question": "Question 158: The right to rectification allows individuals to:",
+    "options": {
+      "0": "Block all processing permanently",
+      "1": "Have inaccurate personal data corrected or completed",
+      "2": "Demand algorithmic transparency in all systems",
+      "3": "Obtain financial compensation"
+    },
+    "correct_answer": "Have inaccurate personal data corrected or completed"
+  },
+  {
+    "question": "Question 159: The right to restrict processing generally means that the controller must:",
+    "options": {
+      "0": "Delete all data permanently",
+      "1": "Store the data but not use it for certain purposes",
+      "2": "Transfer data to a third country",
+      "3": "Turn it into anonymous statistics"
+    },
+    "correct_answer": "Store the data but not use it for certain purposes"
+  },
+  {
+    "question": "Question 160: Rights related to automated decision-making and profiling primarily seek to ensure that individuals:",
+    "options": {
+      "0": "Are always profiled for marketing",
+      "1": "Are not subject to solely automated decisions with significant effects, without safeguards",
+      "2": "Cannot object to marketing",
+      "3": "Must allow AI recruitment tools"
+    },
+    "correct_answer": "Are not subject to solely automated decisions with significant effects, without safeguards"
+  },
+  {
+    "question": "Question 161: Under data-protection guidance, individuals also have the right to:",
+    "options": {
+      "0": "Withdraw consent where processing is based on consent",
+      "1": "Prevent all processing even when required by law",
+      "2": "Demand free hardware upgrades",
+      "3": "Override court orders"
+    },
+    "correct_answer": "Withdraw consent where processing is based on consent"
+  },
+  {
+    "question": "Question 162: In the context of organisational culture, adopting new digital technologies can:",
+    "options": {
+      "0": "Never affect culture",
+      "1": "Influence communication patterns, power structures and employee expectations",
+      "2": "Only change hardware costs",
+      "3": "Eliminate ethical issues"
+    },
+    "correct_answer": "Influence communication patterns, power structures and employee expectations"
+  },
+  {
+    "question": "Question 163: Articles on ethical culture in tech stress that legal compliance alone is:",
+    "options": {
+      "0": "Always sufficient",
+      "1": "Only the starting point; organisations must embed ethics in strategy, training and leadership",
+      "2": "Not necessary",
+      "3": "More important than public trust"
+    },
+    "correct_answer": "Only the starting point; organisations must embed ethics in strategy, training and leadership"
+  },
+  {
+    "question": "Question 164: Building an ethical culture in tech organisations typically involves:",
+    "options": {
+      "0": "Centralising all decisions with one engineer",
+      "1": "Continuous ethics education, open channels for concerns, and leading by example",
+      "2": "Avoiding discussions of ethical dilemmas",
+      "3": "Relaying all responsibility to regulators"
+    },
+    "correct_answer": "Continuous ethics education, open channels for concerns, and leading by example"
+  },
+  {
+    "question": "Question 165: In ethics-scenario materials across professions, one common principle at stake is integrity, which usually means:",
+    "options": {
+      "0": "Maximising profits at any cost",
+      "1": "Not being associated with misleading information or dishonest conduct",
+      "2": "Always obeying managers regardless of law",
+      "3": "Relying solely on automated tools"
+    },
+    "correct_answer": "Not being associated with misleading information or dishonest conduct"
+  },
+  {
+    "question": "Question 166: Many professional ethics scenarios warn against using pirated software because it:",
+    "options": {
+      "0": "Improves security",
+      "1": "Violates law and professional codes, risking reputational damage",
+      "2": "Is always open source",
+      "3": "Has no consequences"
+    },
+    "correct_answer": "Violates law and professional codes, risking reputational damage"
+  },
+  {
+    "question": "Question 167: In workplace ethics scenarios, the recommended first step when noticing a colleague’s questionable behaviour is often to:",
+    "options": {
+      "0": "Publicly shame them online",
+      "1": "Do nothing",
+      "2": "Seek clarification or raise the concern with them or an appropriate senior person",
+      "3": "Immediately contact the press"
+    },
+    "correct_answer": "Seek clarification or raise the concern with them or an appropriate senior person"
+  },
+  {
+    "question": "Question 168: According to organisational-culture and ethics materials, “tone at the top” refers to:",
+    "options": {
+      "0": "Layout of the top floor of the building",
+      "1": "The example set by leaders’ behaviour and decisions",
+      "2": "The HR policy on music",
+      "3": "The official mission statement only"
+    },
+    "correct_answer": "The example set by leaders’ behaviour and decisions"
+  },
+  {
+    "question": "Question 169: If an organisation wants to encourage reporting of ethical concerns, good practice is to:",
+    "options": {
+      "0": "Penalise whistle-blowers to deter misuse",
+      "1": "Provide safe, confidential channels and protect those raising concerns",
+      "2": "Require concerns to be raised only anonymously",
+      "3": "Forbid any internal ethics reporting"
+    },
+    "correct_answer": "Provide safe, confidential channels and protect those raising concerns"
+  },
+  {
+    "question": "Question 170: The UK government guidance lists the right to complain to the Information Commissioner as:",
+    "options": {
+      "0": "An optional privilege",
+      "1": "A recognised part of data-subject rights under UK GDPR/DPA 2018",
+      "2": "Only available to companies",
+      "3": "Available only after a court case"
+    },
+    "correct_answer": "A recognised part of data-subject rights under UK GDPR/DPA 2018"
+  },
+  {
+    "question": "Question 171: In responsible-tech discussions, a digital ethics strategy is described as:",
+    "options": {
+      "0": "A single technical standard",
+      "1": "A document linking an organisation’s vision, values and business plan with its use of technology",
+      "2": "A GDPR-only checklist",
+      "3": "A marketing plan"
+    },
+    "correct_answer": "A document linking an organisation’s vision, values and business plan with its use of technology"
+  },
+  {
+    "question": "Question 172: Articles on organisational ethics in AI suggest that culture is particularly important because AI systems:",
+    "options": {
+      "0": "Never affect people",
+      "1": "Can scale harmful decisions very quickly if deployed without ethical oversight",
+      "2": "Are always unbiased",
+      "3": "Remove the need for human judgement"
+    },
+    "correct_answer": "Can scale harmful decisions very quickly if deployed without ethical oversight"
+  },
+  {
+    "question": "Question 173: In the Responsible Technology module, environmental sustainability is treated as:",
+    "options": {
+      "0": "Unrelated to technology",
+      "1": "A foundational concern that underpins legal and ethical issues",
+      "2": "Only relevant to hardware disposal",
+      "3": "A future optional topic"
+    },
+    "correct_answer": "A foundational concern that underpins legal and ethical issues"
+  },
+  {
+    "question": "Question 174: The ACM Code notes that computing professionals should promote environmental sustainability as part of:",
+    "options": {
+      "0": "Principle 1.1 Contribute to society and human well-being",
+      "1": "Principle 1.3 Be honest and trustworthy",
+      "2": "Principle 2.6 Perform work only in areas of competence",
+      "3": "Principle 3.5 Create opportunities for growth"
+    },
+    "correct_answer": "Principle 1.1 Contribute to society and human well-being"
+  },
+  {
+    "question": "Question 175: A core idea across Ethical OS, EHAZOP and consequence scanning is to:",
+    "options": {
+      "0": "Assume low-probability risks can be ignored",
+      "1": "Anticipate future harms and unintended consequences before deployment",
+      "2": "Focus only on current user feedback",
+      "3": "Prioritise speed over foresight"
+    },
+    "correct_answer": "Anticipate future harms and unintended consequences before deployment"
+  },
+  {
+    "question": "Question 176: The right not to be subject to a decision based solely on automated processing mainly protects individuals from:",
+    "options": {
+      "0": "Any manual review",
+      "1": "Automated decisions with legal or similarly significant effects without human oversight or safeguards",
+      "2": "All forms of personalisation",
+      "3": "Automated emails only"
+    },
+    "correct_answer": "Automated decisions with legal or similarly significant effects without human oversight or safeguards"
+  },
+  {
+    "question": "Question 177: According to UK guidance, the right to be informed usually covers information such as:",
+    "options": {
+      "0": "Controller identity, purposes, legal basis, retention and data-subject rights",
+      "1": "Staff salary bands",
+      "2": "Building evacuation routes",
+      "3": "Marketing discount codes"
+    },
+    "correct_answer": "Controller identity, purposes, legal basis, retention and data-subject rights"
+  },
+  {
+    "question": "Question 178: If a controller refuses a data-subject request that it considers manifestly unfounded or excessive, it should normally:",
+    "options": {
+      "0": "Ignore the request without explanation",
+      "1": "Still respond, explaining why and informing them of their right to complain to the ICO",
+      "2": "Delete all data",
+      "3": "Charge unlimited fees"
+    },
+    "correct_answer": "Still respond, explaining why and informing them of their right to complain to the ICO"
+  },
+  {
+    "question": "Question 179: Organisational-culture guidance notes that introducing monitoring technologies without transparency can:",
+    "options": {
+      "0": "Automatically improve trust",
+      "1": "Damage trust, create perceptions of surveillance and conflict with ethical commitments",
+      "2": "Have no effect",
+      "3": "Be ethically neutral"
+    },
+    "correct_answer": "Damage trust, create perceptions of surveillance and conflict with ethical commitments"
+  },
+  {
+    "question": "Question 180: Ethics interview-question articles highlight that when facing an ethical dilemma, a good answer shows you:",
+    "options": {
+      "0": "Follow orders blindly",
+      "1": "Consider principles, stakeholders, options and consequences before acting",
+      "2": "Prioritise personal gain only",
+      "3": "Avoid making a decision"
+    },
+    "correct_answer": "Consider principles, stakeholders, options and consequences before acting"
+  },
+  {
+    "question": "Question 181: In many ethics scenarios, professional competence and due care requires that you:",
+    "options": {
+      "0": "Accept work regardless of expertise",
+      "1": "Ensure you have the necessary skills or seek support/decline work",
+      "2": "Learn only after delivering the project",
+      "3": "Delegate all decisions"
+    },
+    "correct_answer": "Ensure you have the necessary skills or seek support/decline work"
+  },
+  {
+    "question": "Question 182: UK government and ICO guidance emphasise that organisations should respond to most data-subject rights requests within:",
+    "options": {
+      "0": "7 days",
+      "1": "One month (with limited extension possibilities)",
+      "2": "One year",
+      "3": "Only when convenient"
+    },
+    "correct_answer": "One month (with limited extension possibilities)"
+  },
+  {
+    "question": "Question 183: In a culture that supports responsible innovation, failure is treated as:",
+    "options": {
+      "0": "Always a reason for punishment",
+      "1": "An opportunity for learning, provided issues are addressed transparently and ethically",
+      "2": "A personal weakness",
+      "3": "A reason to avoid experimentation"
+    },
+    "correct_answer": "An opportunity for learning, provided issues are addressed transparently and ethically"
+  },
+  {
+    "question": "Question 184: Articles on ethical culture in tech highlight that ethics officers or committees:",
+    "options": {
+      "0": "Remove the need for everyone else to think about ethics",
+      "1": "Support but do not replace the responsibility of all staff to act ethically",
+      "2": "Are responsible only for marketing",
+      "3": "Have legal immunity"
+    },
+    "correct_answer": "Support but do not replace the responsibility of all staff to act ethically"
+  },
+  {
+    "question": "Question 185: From the standpoint of professional codes and GDPR, confidentiality obligations may be overridden when:",
+    "options": {
+      "0": "A colleague is curious",
+      "1": "There is a legal requirement or strong public-interest justification (e.g. reporting serious wrongdoing)",
+      "2": "You leave the organisation",
+      "3": "You dislike the client"
+    },
+    "correct_answer": "There is a legal requirement or strong public-interest justification (e.g. reporting serious wrongdoing)"
+  },
+  {
+    "question": "Question 186: A responsible-tech risk-mitigation step after identifying a high-risk scenario (e.g. deep-fake misuse) is to:",
+    "options": {
+      "0": "Ignore it if unlikely",
+      "1": "Prioritise it, design safeguards, or reconsider deployment",
+      "2": "Assume users will adapt",
+      "3": "Delegate it to marketing"
+    },
+    "correct_answer": "Prioritise it, design safeguards, or reconsider deployment"
+  },
+  {
+    "question": "Question 187: In ethical OS scenarios about drones collecting data over neighbourhoods, a key ethical concern is that:",
+    "options": {
+      "0": "Drones are too slow",
+      "1": "People who have not consented may still be subject to surveillance and data collection",
+      "2": "Packages arrive too quickly",
+      "3": "Only companies benefit"
+    },
+    "correct_answer": "People who have not consented may still be subject to surveillance and data collection"
+  },
+  {
+    "question": "Question 188: The social model of disability implies that inaccessible technology:",
+    "options": {
+      "0": "Has no ethical implications",
+      "1": "Is one way society creates or exacerbates disability",
+      "2": "Only affects medical treatment",
+      "3": "Is purely a user problem"
+    },
+    "correct_answer": "Is one way society creates or exacerbates disability"
+  },
+  {
+    "question": "Question 189: According to inclusive-design principles used in the module, “solve for one, extend to many” means:",
+    "options": {
+      "0": "Design only for the majority",
+      "1": "Solve a problem for a specific group and look for ways this solution can benefit others",
+      "2": "Avoid niche use-cases",
+      "3": "Focus on one platform only"
+    },
+    "correct_answer": "Solve a problem for a specific group and look for ways this solution can benefit others"
+  },
+  {
+    "question": "Question 190: Across all materials (GDPR, accessibility, ethics, professional codes), a unifying expectation of computing professionals is to:",
+    "options": {
+      "0": "Maximise short-term gains regardless of impact",
+      "1": "Act with care for rights, fairness, inclusion, transparency and public good, beyond bare legal minimums",
+      "2": "Leave ethical decisions to managers and regulators",
+      "3": "Treat users purely as data points"
+    },
+    "correct_answer": "Act with care for rights, fairness, inclusion, transparency and public good, beyond bare legal minimums"
+  }
+]
